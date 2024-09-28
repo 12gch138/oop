@@ -224,5 +224,6 @@ int main(int argc, char const *argv[])
         std::cerr << err << '\n';
     }
     
+    system("pause");
     return 0;
 }
